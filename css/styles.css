@@ -42,10 +42,12 @@ ul {
 /* ========END LINKS======== */
 
 /* ========MENU======== */
+.header-border {
+  border-bottom: 1px solid #ececec;
+}
 .menu {
   justify-content: flex-start;
   background-color: #ffffff;
-  border-bottom: 1px solid #ececec;
 }
 .navigation {
   margin-left: 93px;
@@ -270,7 +272,7 @@ ul {
   margin-inline-end: 0em;
   margin-bottom: 30px;
   margin-right: 30px;
-  border-bottom: 1px solid #eeeeee;
+  border: 1px solid #eeeeee;
 }
 .margin-zero {
   margin-right: 0;
